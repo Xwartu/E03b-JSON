@@ -791,9 +791,9 @@
 		}],
 		"items": [
 			{
-			"item": "MUMMY",
-            "desc": "An ancient Egyptian mummy is sprawled on the floor",
-			"take": "You stuff the mummy in to your sack"
+				"item": "MUMMY",
+            	"desc": "An ancient Egyptian mummy is sprawled on the floor",
+				"take": "You stuff the mummy in to your sack"
 			}
 		]
 	},
